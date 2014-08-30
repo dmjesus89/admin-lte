@@ -1,0 +1,19 @@
+{
+    "name": "cothema/AdminLTE",
+    "description": "AdminLTE",
+    "type": "project",
+    "license": ["MIT"],
+    "authors": [
+        {
+            "name": "Cothema s.r.o.",
+            "email": "info@cothema.com",
+            "homepage": "http://www.cothema.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Milos Havlicek",
+            "email": "havlicek@cothema.cz",
+            "role": "Developer"
+        }
+    ]
+}
